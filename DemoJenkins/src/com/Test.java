@@ -12,4 +12,9 @@ public class Test
 		System.out.println("This is the method");
 
 	}
+	public void m2() {
+		System.out.println("This is the m1 method");
+		System.out.println("This is the method");
+
+	}
 }
